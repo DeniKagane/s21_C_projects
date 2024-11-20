@@ -215,27 +215,6 @@
     "email": "piperlopez@example.com",
     "gender": "Female",
     "status": "Inactive"
-  },
-  {
-    "id": 30,
-    "name": "Violet Hill",
-    "email": "violethill@example.com",
-    "gender": "Female",
-    "status": "Inactive"
-  },
-  {
-    "id": 31,
-    "name": "Stella Scott",
-    "email": "stellascott@example.com",
-    "gender": "Female",
-    "status": "Inactive"
-  },
-  {
-    "id": 32,
-    "name": "Everly Green",
-    "email": "everlygreen@example.com",
-    "gender": "Female",
-    "status": "Inactive"
   }
   ]
 }
