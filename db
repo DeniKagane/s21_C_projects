@@ -1,0 +1,241 @@
+{
+  "meta" : {
+    "pagination" : {
+      "total" : 1725,
+      "pages" : 82,
+      "page" : 1,
+      "limit" : 20,
+      "links" : {
+        "previous" : null,
+        "current" : "https://github.com/DeniKagane/s21_C_projects/new/main",
+        "next" : "https://github.com/DeniKagane/s21_C_projects/new/main"
+      }
+    }
+  },
+  "data" : [
+  {
+    "id": 1,
+    "name": "Emily Smith",
+    "email": "emilysmith@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Olivia Johnson",
+    "email": "oliviajohnson@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 3,
+    "name": "Sophia Williams",
+    "email": "sophiawilliams@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "name": "Isabella Brown",
+    "email": "isabellabrown@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 5,
+    "name": "Ava Davis",
+    "email": "avadavis@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "name": "Mia Miller",
+    "email": "miamiller@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 7,
+    "name": "Amelia Wilson",
+    "email": "ameliawilson@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "name": "Harper Moore",
+    "email": "harpermoore@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 9,
+    "name": "Evelyn Taylor",
+    "email": "evelyntaylor@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 10,
+    "name": "Abigail Anderson",
+    "email": "abigailanderson@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 11,
+    "name": "Luna Thomas",
+    "email": "lunathomas@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 12,
+    "name": "Camila Jackson",
+    "email": "camilajackson@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 13,
+    "name": "Gianna White",
+    "email": "giannawhite@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 14,
+    "name": "Layla Harris",
+    "email": "laylaharris@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 15,
+    "name": "Penelope Martin",
+    "email": "penelopemartin@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 16,
+    "name": "Charlotte Thompson",
+    "email": "charlottethompson@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 17,
+    "name": "Chloe Garcia",
+    "email": "chloegarcia@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 18,
+    "name": "Madison Martinez",
+    "email": "madisonmartinez@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 19,
+    "name": "Victoria Robinson",
+    "email": "victoriarobinson@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 20,
+    "name": "Scarlett Clark",
+    "email": "scarlettclark@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 21,
+    "name": "Aurora Lewis",
+    "email": "auroralewis@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 22,
+    "name": "Hazel Walker",
+    "email": "hazelwalker@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 23,
+    "name": "Nova Hall",
+    "email": "novahall@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 24,
+    "name": "Ivy Allen",
+    "email": "ivyallen@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 25,
+    "name": "Willow Young",
+    "email": "willowyoung@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 26,
+    "name": "Ruby Hernandez",
+    "email": "rubyhernandez@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 27,
+    "name": "Jasmine King",
+    "email": "jasmineking@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 28,
+    "name": "Lily Wright",
+    "email": "lilywright@example.com",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 29,
+    "name": "Piper Lopez",
+    "email": "piperlopez@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 30,
+    "name": "Violet Hill",
+    "email": "violethill@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 31,
+    "name": "Stella Scott",
+    "email": "stellascott@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  },
+  {
+    "id": 32,
+    "name": "Everly Green",
+    "email": "everlygreen@example.com",
+    "gender": "Female",
+    "status": "Inactive"
+  }
+  ]
+}
